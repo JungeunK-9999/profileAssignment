@@ -25,11 +25,22 @@
       background-color: cyan;
   }
 
+  .imgdiv{
+    width: 30vw;
+    height: 100%;
+  }
+
+  .messagediv{
+      width: 65vw;
+      float: left;
+  }
+
   .profileImg{
       width: 40vh;
       height: 60vh;
-      padding: 20vh 0 0 5vh;
+      
       float: left;
+      border: 3px solid #cccccc;
   }
 
   .message{
@@ -44,14 +55,11 @@
 
   .hrDiv{
       width: 50vw;
-      padding: 10px 0 0 10vh;
+      padding: 10vh 0 0 10vh;
       float: left;
   }
 
   .sogae{
-      width: 100vh;
-      height: 30vh;
-      padding: 20px 0 0 10vh;
-
+     
       text-align: left;
   }
